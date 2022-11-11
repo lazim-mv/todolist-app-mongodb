@@ -1,0 +1,23 @@
+[33mcommit a4b4716d208071e73d3b353f29edd7880999a234[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: lazim-mv <106281909+lazim-mv@users.noreply.github.com>
+Date:   Thu Nov 10 20:01:49 2022 +0530
+
+    3rd commit
+
+[33mcommit 0eb67d85c31ecb810ea2439e07b9a8dde0edb51f[m
+Author: lazim-mv <106281909+lazim-mv@users.noreply.github.com>
+Date:   Thu Nov 10 19:33:08 2022 +0530
+
+    "Deleted gitignore"
+
+[33mcommit 9f58b0f27206cae2f1b9305232672b4a720fa6f6[m[33m ([m[1;31mheroku/main[m[33m, [m[1;32mheroku[m[33m)[m
+Author: lazim-mv <106281909+lazim-mv@users.noreply.github.com>
+Date:   Thu Nov 10 18:32:53 2022 +0530
+
+    Add gitignore, procfile and update ports
+
+[33mcommit 26087ff65143a571a02b7fafa7c49177a2e8d7ac[m
+Author: lazim-mv <106281909+lazim-mv@users.noreply.github.com>
+Date:   Thu Nov 10 18:13:19 2022 +0530
+
+    initial commit

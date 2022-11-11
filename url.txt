@@ -1,0 +1,14 @@
+
+
+
+<-------------A Minimalistic todolist app------------->
+
+
+Site url = https://desolate-mountain-43013.herokuapp.com/.
+
+>Add task
+>Delete task
+>Database connected
+
+Tools used => html,css,js,nodejs,mongodb.
+Dependencies => express,body-parser,ejs,mongoose,lodash.
